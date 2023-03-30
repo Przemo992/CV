@@ -1,0 +1,136 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+hr{
+  
+  border-top: 10px dotted #EAF6F6;
+  width: 5%;
+  height: 0px;
+} 
+
+h1{
+  font-size: 5.625rem;
+  margin-block-end: 0;
+  margin-block-start: 0;
+  margin: 100px auto 0 auto;
+  font-family: 'Delicious Handrawn', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin: 0;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+}
+
+.skills{
+  margin-top: 100px;
+}
+
+
+.profileImg{
+  width: 200px;
+
+}
+.skillsImg{
+  margin-right: 30px;
+  width: 200px;
+  float: left;
+}
+
+.skillsImg2{
+ margin-left: 30px;
+
+  width: 200px;
+  float: right;
+
+}
+
+.topContainer{
+  background-color: #E4F9F5;
+  padding-top: 200px;
+  height: auto;
+}
+
+.middleContainer{
+  
+}
+
+.bottom-container{
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #66BFBF;
+  color: #EAF6F6;
+  
+}
+
+.top-cloud{
+  position: relative;
+  top: 100px;
+  left: 300px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 500px;
+  top: 600px;
+}
+
+.footer-link{
+  text-decoration: none;
+  color: #11999E;
+  margin: 0 50px 0 50px;
+  
+}
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.profile{
+  width: 50%;
+margin: 100px auto 100px auto;
+
+line-height: 2;
+}
+.contact-me{
+  width: 35%;
+ margin: 100px auto 50px auto;
+  line-height: 2;
+}
+
+
+/* CSS */
+.button-91 {
+  color: #fff;
+  padding: 15px 25px;
+  background-color: #66BFBF;
+  background-image: radial-gradient(93% 87% at 87% 89%, rgba(0, 0, 0, 0.23) 0%, transparent 86.18%), radial-gradient(66% 66% at 26% 20%, rgba(255, 255, 255, 0.55) 0%, rgba(255, 255, 255, 0) 69.79%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: inset -3px -3px 9px rgba(255, 255, 255, 0.25), inset 0px 3px 9px rgba(255, 255, 255, 0.3), inset 0px 1px 1px rgba(255, 255, 255, 0.6), inset 0px -8px 36px rgba(0, 0, 0, 0.3), inset 0px 1px 5px rgba(255, 255, 255, 0.6), 2px 19px 31px rgba(0, 0, 0, 0.2);
+  border-radius: 14px;
+  font-weight: bold;
+  font-size: 16px;
+
+  border: 0;
+
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+
+  cursor: pointer;
+
+  text-decoration: none;
+}
